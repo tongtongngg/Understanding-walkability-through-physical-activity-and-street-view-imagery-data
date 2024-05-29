@@ -1,0 +1,2 @@
+# Understanding-walkability-through-physical-activity-and-street-view-imagery-data
+This project will focus on identifying the aspects of the built and natural environment that are associated with walking behavior using an empirical approach. We will make use of different data and a neural network, to give street segments a walkability score, and expand this so we are able to score the entirety of Copenhagen.
