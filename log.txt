@@ -1,0 +1,31 @@
+34c5083 - Frederik-N-H-Lundgren, 22 minutes ago : Renamed files in Data_and_Files to ProducedData_and_Files
+0d4f38c - Frederik-N-H-Lundgren, 23 minutes ago : Merge branch 'main' of https://github.com/WeinanXiong/KID-projekt
+9d26eb7 - Frederik-N-H-Lundgren, 25 minutes ago : Have taken codes written on server and added them to the git repository. Have also made folders for a cleaner looking repository. Codes that are not used have been put in a folder, and some of the allowed data is shown in the data and files folder.
+bfa6da3 - Botong Yu, 9 weeks ago : Merge branch 'main' of https://github.com/WeinanXiong/KID-projekt
+2e81a56 - Botong Yu, 9 weeks ago : sjoin example
+c1df5e7 - WeinanXiong, 9 weeks ago : shape file no need path, saved csv for amager
+8746907 - WeinanXiong, 9 weeks ago : find the shapefile without the path so it works on all computers
+e0360b9 - Frederik-N-H-Lundgren, 9 weeks ago : Merge branch 'main' of https://github.com/WeinanXiong/KID-projekt
+d17ab90 - Frederik-N-H-Lundgren, 9 weeks ago : Combined get_image_id and get_image_location files to one file (image_id_and_locaitons), which greatly increase runtime
+91efba9 - Botong Yu, 9 weeks ago : test
+57c4622 - Botong Yu, 9 weeks ago : My commit message
+dcc0301 - Frederik-N-H-Lundgren, 9 weeks ago : Delete images without location
+01c7657 - Frederik-N-H-Lundgren, 9 weeks ago : Made it possible to add a bounding boc to the streetedge data.
+5a157aa - Frederik-N-H-Lundgren, 9 weeks ago : Merge branch 'main' of https://github.com/WeinanXiong/KID-projekt
+3ff7a12 - Frederik-N-H-Lundgren, 9 weeks ago : Made the option to show bounding box over the chosen area of interrest.
+9d25707 - WeinanXiong, 9 weeks ago : other coordinates
+c1bcb54 - WeinanXiong, 9 weeks ago : python file
+ebb1c6c - WeinanXiong, 10 weeks ago : forsøg på joine datasæt med images og mappet
+20dba94 - Frederik-N-H-Lundgren, 10 weeks ago : Merge branch 'main' of https://github.com/WeinanXiong/KID-projekt
+99ef114 - WeinanXiong, 10 weeks ago : add file
+15574bb - WeinanXiong, 10 weeks ago : shape file
+00daa69 - WeinanXiong, 10 weeks ago : Add files via upload
+00e4ff5 - WeinanXiong, 10 weeks ago : data mappe
+82c16e1 - WeinanXiong, 10 weeks ago : Merge branch 'main' of https://github.com/WeinanXiong/KID-projekt
+d3adb79 - WeinanXiong, 10 weeks ago : data
+5bd8f9a - Frederik-N-H-Lundgren, 10 weeks ago : Made change to not print location of each image for runtime purposes.
+3c2de9e - Frederik-N-H-Lundgren, 10 weeks ago : Cahnge the code so it dowloads the images from the image_ids.txt file
+6036886 - Botong Yu, 10 weeks ago : Add files via upload
+0707fca - WeinanXiong, 10 weeks ago : Add files via upload
+3321e44 - Frederik-N-H-Lundgren, 3 months ago : Create README.md
+791715b - WeinanXiong, 3 months ago : Add files via upload

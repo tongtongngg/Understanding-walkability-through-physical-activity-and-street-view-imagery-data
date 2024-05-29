@@ -1,2 +1,6 @@
-# Understanding-walkability-through-physical-activity-and-street-view-imagery-data
-This project will focus on identifying the aspects of the built and natural environment that are associated with walking behavior using an empirical approach. We will make use of different data and a neural network, to give street segments a walkability score, and expand this so we are able to score the entirety of Copenhagen.
+# KID-projekt
+"""Our project focussed on understanding how humans make spatial decisions which is a key to 
+developing realistic human mobility models which are especially important for applications 
+such as estimating migratory flows, traffic forecasting, urban planning, and epidemic modeling"""
+
+"""The project will spand over an entire semester, inclueding the 13 weeks part, and a more intense 3 week course"""
